@@ -58,4 +58,4 @@ pip install pynput
 
 ## Disclaimer
 
-This keylogger example is intended for educational and learning purposes only. It should not be used for any malicious or unauthorized activities. The developer and the provider of this code are not responsible for any misuse or legal consequences caused by the use of this code.
+This keylogger example is intended for educational and learning purposes only. It should not be used for any malicious or unauthorized activities. 
